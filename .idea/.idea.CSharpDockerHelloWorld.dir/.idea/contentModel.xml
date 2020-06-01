@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Matthew\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Matthew\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Matthew\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Matthew\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_.19.00" t="ExcludeRecursive" />
     <e p="C:\Users\Matthew\Personal\CSharpDockerHelloWorld" t="IncludeRecursive">
       <e p=".gitignore" t="Include" />
       <e p="appsettings.Development.json" t="Include" />
@@ -12,6 +12,7 @@
         <e p="ExampleController.cs" t="Include" />
       </e>
       <e p="CSharpDockerHelloWorld.csproj" t="IncludeRecursive" />
+      <e p="Dockerfile" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp3.1" t="Include">
