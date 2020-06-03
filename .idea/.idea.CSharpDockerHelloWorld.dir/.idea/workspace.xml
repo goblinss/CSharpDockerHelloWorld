@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b728769b-09cd-43ca-9ad8-3dbb2fcf96d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aws-windows-deployment-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beanstalk-package.ps1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/csharphelloworld.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpDockerHelloWorld.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpDockerHelloWorld.dir/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharpDockerHelloWorld.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpDockerHelloWorld.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +125,7 @@
       <updated>1581212006090</updated>
       <workItem from="1581212011295" duration="1865000" />
       <workItem from="1590988825861" duration="814000" />
-      <workItem from="1591221190611" duration="310000" />
+      <workItem from="1591221190611" duration="470000" />
     </task>
     <task id="LOCAL-00001" summary="Before removing template files">
       <created>1581212156564</created>
@@ -187,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590989411519</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added a script to build a beanstalk package">
+      <created>1591221599331</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591221599331</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +218,8 @@
     <MESSAGE value="Added ignore file" />
     <MESSAGE value="Cleaned build" />
     <MESSAGE value="Added dockerfile and changed default port" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added dockerfile and changed default port" />
+    <MESSAGE value="Added a script to build a beanstalk package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a script to build a beanstalk package" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1590989624063">
@@ -234,9 +238,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590989624063" />
-    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590989412879">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="603" y="248" key="Vcs.Push.Dialog.v2" timestamp="1591221600450">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="603" y="248" key="Vcs.Push.Dialog.v2/-3826.2174.1536.840/-1920.1094.1920.1040/3840.1073.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591221600450" />
     <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590989412879" />
     <state x="426" y="188" key="run.anything.popup" timestamp="1590989618634">
       <screen x="0" y="0" width="1536" height="824" />
