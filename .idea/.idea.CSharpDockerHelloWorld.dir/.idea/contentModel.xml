@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Matthew\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Matthew\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_.19.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Matthew\Personal\CSharpDockerHelloWorld" t="IncludeRecursive">
+    <e p="C:\Code\CSharpDockerHelloWorld" t="IncludeRecursive">
       <e p=".gitignore" t="Include" />
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
+      <e p="aws-windows-deployment-manifest.json" t="Include" />
+      <e p="beanstalk-app-bundle.zip" t="Include" />
+      <e p="beanstalk-package.ps1" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Controllers" t="Include">
         <e p="ExampleController.cs" t="Include" />
       </e>
       <e p="CSharpDockerHelloWorld.csproj" t="IncludeRecursive" />
+      <e p="csharphelloworld.zip" t="Include" />
       <e p="Dockerfile" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -25,7 +27,10 @@
       <e p="Properties" t="Include">
         <e p="launchSettings.json" t="Include" />
       </e>
+      <e p="README.md" t="Include" />
       <e p="Startup.cs" t="Include" />
     </e>
+    <e p="C:\Users\matth\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\matth\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_.19.00" t="ExcludeRecursive" />
   </component>
 </project>
