@@ -6,12 +6,14 @@
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
       <e p="aws-windows-deployment-manifest.json" t="Include" />
+      <e p="beanstalk-app-bundle.zip" t="Include" />
       <e p="beanstalk-package.ps1" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Controllers" t="Include">
         <e p="ExampleController.cs" t="Include" />
       </e>
       <e p="CSharpDockerHelloWorld.csproj" t="IncludeRecursive" />
+      <e p="csharphelloworld.zip" t="Include" />
       <e p="Dockerfile" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
