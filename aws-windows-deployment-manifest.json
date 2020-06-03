@@ -5,7 +5,7 @@
       {
         "name": "csharphelloworld",
         "parameters": {
-          "archive": "csharphelloworld.zip",
+          "appBundle": "csharphelloworld.zip",
           "iisPath": "/"
         }
       }
