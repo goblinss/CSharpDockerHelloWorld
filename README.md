@@ -1,0 +1,1 @@
+This is the sample code for the book [ECR, EKS and C# Docker images: A step by step guide to deploying to Kubernetes in AWS](https://www.amazon.com/ECR-EKS-Docker-images-Kubernetes-ebook/dp/B089GLXTTD/ref=sr_1_7?dchild=1&keywords=matthew+casperson&qid=1591219296&sr=8-7).
