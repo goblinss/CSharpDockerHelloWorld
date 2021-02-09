@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend-app
+  labels:
+    app: backend-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: backend-app
+  template:
+    metadata:
+      labels:
+        app: backend-app
+    spec:
+      containers:
+        - name: backend-app
+          image: 917112362075.dkr.ecr.ap-northeast-1.amazonaws.com/csharphelloworld
+          imagePullPolicy: Always
+          ports:
+          - containerPort: 8080
